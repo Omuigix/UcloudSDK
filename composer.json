@@ -1,0 +1,10 @@
+{
+    "name": "omuigix/ucloud-sdk",
+    "require": {},
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Omuigix\\UcloudSDK\\": "src/"
+        }
+    }
+}
